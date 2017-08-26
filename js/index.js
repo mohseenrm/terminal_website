@@ -154,7 +154,7 @@ function commandLine(command){
 					break;
 				case "resume":
 					var redirect = function(){
-						window.location = "http://mohseenrm.github.io/resume.html"
+						window.location = "http://mohseenrm.github.io/terminal_website/resume.html"
 					}
 					$(".slim-override").shuffleLetters({
 						"text": help_resume,
